@@ -1,4 +1,4 @@
-#my first python project
+#my first python project (Simple calculator)
 
 A = float(input('enter the first number: '))
 B = float(input('enter the second number: '))
